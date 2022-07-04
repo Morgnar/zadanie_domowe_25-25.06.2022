@@ -12,5 +12,4 @@ def format_number(cyfra):
     return cyfra_nowa
 
 
-
 format_number(10000023234324234)
